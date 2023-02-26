@@ -1,9 +1,3 @@
-![Cover](https://github.com/TamimEhsan/TamimEhsan/blob/master/Assets/banner2.jpg)
-
-
-[![HitCount](http://hits.dwyl.com/TamimEhsan/TamimEhsan.svg)](http://hits.dwyl.com/TamimEhsan/TamimEhsan)
- <img src="https://komarev.com/ghpvc/?username=TamimEhsan">
-
 ### Hello there 👋
 
 My name is Lukas Hu. I am an undergraduate student at UC Irvine.
@@ -39,7 +33,7 @@ My name is Lukas Hu. I am an undergraduate student at UC Irvine.
 
 ## Projects that I contributed to
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShanjinurIslam&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/HyperionLegion/Escape-Vape) <br />
+[![ReadMe Card](https://github.com/HyperionLegion/Escape-Vape#readme)](https://github.com/HyperionLegion/Escape-Vape) <br />
 
 
 ⭐️ From [Lukas Hu](https://github.com/Lukas-L-Hu)
