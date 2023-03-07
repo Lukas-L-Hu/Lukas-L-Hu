@@ -27,5 +27,5 @@ My name is Lukas Hu. I am an undergraduate student at UC Irvine.
 
 ## Projects that I contributed to
 
-[![ReadMe Card](https://github.com/HyperionLegion/Escape-Vape#readme)](https://github.com/HyperionLegion/Escape-Vape) <br />
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HyperionLegion&repo=Escape-Vape&showowner=true)](https://github.com/HyperionLegion/Escape-Vape) <br />
 
