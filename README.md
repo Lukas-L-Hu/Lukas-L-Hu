@@ -14,7 +14,7 @@ My name is Lukas Hu. I am an undergraduate student at UC Irvine.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![C++]([https://img.shield.io/badge/-Cplusplus000000?style=flat&logo=Cplusplus)
+![C++](https://img.shields.io/badge/-Cplusplus-000000?style=flat&logo=cplusplus)
 
 ## Tools:
 
