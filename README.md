@@ -3,7 +3,7 @@
 My name is Lukas Hu. I am an undergraduate student at UC Irvine.
 
 - 💻 I ~like~ **love** coding
-- 🌱 I’m currently learning about C++ Data Structures
+- 🌱 I’m currently learning about C++ data structures
 - 👯 I’m looking to collaborate on opensource and group projects.
 <br /> 
 
