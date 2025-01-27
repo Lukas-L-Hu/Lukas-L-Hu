@@ -9,7 +9,7 @@ My name is Lukas Hu. I am an undergraduate student at UC Irvine.
 
 ## Languages
 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -18,6 +18,7 @@ My name is Lukas Hu. I am an undergraduate student at UC Irvine.
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-Cplusplus-000000?style=flat&logo=cplusplus)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
 
 ## Tools:
 
@@ -27,7 +28,9 @@ My name is Lukas Hu. I am an undergraduate student at UC Irvine.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react.js)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
 
 
 ## Projects that I contributed to
