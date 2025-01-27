@@ -27,6 +27,7 @@ My name is Lukas Hu. I am an undergraduate student at UC Irvine.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react.js)
 
 
 ## Projects that I contributed to
